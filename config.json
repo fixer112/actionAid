@@ -1,0 +1,8 @@
+{
+	"db":{
+		"username" : "root",
+		"password" : "",
+		"database" : "actionaid",
+		"host" : "127.0.0.1"
+	}
+}
